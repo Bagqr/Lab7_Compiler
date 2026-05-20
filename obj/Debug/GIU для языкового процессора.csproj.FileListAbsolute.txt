@@ -1,0 +1,169 @@
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\bin\Debug\mn\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\bin\Debug\ru\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\GIU для языкового процессора.csproj.AssemblyReference.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\AboutWindow.baml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\HelpWindow.baml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\AboutWindow.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\HelpWindow.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.resources.Language.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.resources.Language.mn.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.resources.Language.ru.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\GIU для языкового процессора.csproj.GenerateResource.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\GIU для языкового процессора.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\mn\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\ru\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\GIU ___ .2328677F.Up2Date
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\bin\Debug\mn\WpfApp1.resources.dll
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\bin\Debug\ru\WpfApp1.resources.dll
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\GIU для языкового процессора.csproj.AssemblyReference.cache
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\AboutWindow.baml
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\HelpWindow.baml
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\AboutWindow.g.cs
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\HelpWindow.g.cs
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1.resources.Language.resources
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1.resources.Language.mn.resources
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1.resources.Language.ru.resources
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\GIU для языкового процессора.csproj.GenerateResource.cache
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\GIU для языкового процессора.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\mn\WpfApp1.resources.dll
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\ru\WpfApp1.resources.dll
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\GIU ___ .2328677F.Up2Date
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Богдан\Downloads\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\bin\Debug\mn\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\bin\Debug\ru\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\GIU для языкового процессора.csproj.AssemblyReference.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\AboutWindow.baml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\HelpWindow.baml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\AboutWindow.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\HelpWindow.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1.resources.Language.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1.resources.Language.mn.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1.resources.Language.ru.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\GIU для языкового процессора.csproj.GenerateResource.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\GIU для языкового процессора.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\mn\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\ru\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\GIU ___ .2328677F.Up2Date
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб2\GUI--main\GUI--main\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\bin\Debug\WpfApp1.exe.config
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\bin\Debug\WpfApp1.exe
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\bin\Debug\WpfApp1.pdb
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\bin\Debug\mn\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\bin\Debug\ru\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\GIU для языкового процессора.csproj.AssemblyReference.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\AboutWindow.baml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\HelpWindow.baml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\AboutWindow.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\HelpWindow.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\MainWindow.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\App.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\MainWindow.baml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\WpfApp1.g.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\WpfApp1.resources.Language.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\WpfApp1.resources.Language.mn.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\WpfApp1.resources.Language.ru.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\GIU для языкового процессора.csproj.GenerateResource.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\GIU для языкового процессора.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\mn\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\ru\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\GIU ___ .2328677F.Up2Date
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\WpfApp1.exe
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб3\Lab2_Compiler-main\obj\Debug\WpfApp1.pdb
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\bin\Debug\WpfApp1.exe.config
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\bin\Debug\WpfApp1.exe
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\bin\Debug\WpfApp1.pdb
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\bin\Debug\mn\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\bin\Debug\ru\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\GIU для языкового процессора.csproj.AssemblyReference.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\AboutWindow.baml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\HelpWindow.baml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\AboutWindow.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\HelpWindow.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\MainWindow.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\App.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\MainWindow.baml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\WpfApp1.g.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\WpfApp1.resources.Language.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\WpfApp1.resources.Language.mn.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\WpfApp1.resources.Language.ru.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\GIU для языкового процессора.csproj.GenerateResource.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\GIU для языкового процессора.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\mn\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\ru\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\GIU ___ .2328677F.Up2Date
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\WpfApp1.exe
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб5\Lab3_Compiler-main\obj\Debug\WpfApp1.pdb
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\bin\Debug\WpfApp1.exe.config
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\bin\Debug\WpfApp1.exe
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\bin\Debug\WpfApp1.pdb
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\bin\Debug\mn\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\bin\Debug\ru\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\GIU для языкового процессора.csproj.AssemblyReference.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\AboutWindow.baml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\HelpWindow.baml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\AboutWindow.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\HelpWindow.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\MainWindow.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\App.g.cs
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\MainWindow.baml
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\WpfApp1.g.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\WpfApp1.resources.Language.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\WpfApp1.resources.Language.mn.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\WpfApp1.resources.Language.ru.resources
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\GIU для языкового процессора.csproj.GenerateResource.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\GIU для языкового процессора.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\mn\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\ru\WpfApp1.resources.dll
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\GIU ___ .2328677F.Up2Date
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\WpfApp1.exe
+C:\Users\Богдан\Documents\учёба\6 семестр\теория компиляторов\Лаб7\Lab5_Compiler-main\obj\Debug\WpfApp1.pdb
